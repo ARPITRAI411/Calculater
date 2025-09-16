@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Keys from './keys';
+import Keys from './Keys';
 
 const Calculator = () => {
   const keys = [
